@@ -1,2 +1,5 @@
-# csgroup
-http://telegram.me/kinghazrat
+# [csgroup](https://telegram.me/csgroup)
+* **Install Bot**
+`````sh
+http://tarfand.pro
+`````
